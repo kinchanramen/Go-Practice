@@ -26,6 +26,7 @@ func main() {
 
     // errの中身を表示
     fmt.Println("The value of err is:", err)
+	
 
     fmt.Println("File created and written successfully.")
 }
